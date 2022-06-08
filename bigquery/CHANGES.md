@@ -1,5 +1,17 @@
 # Changes
 
+## [1.33.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.32.0...bigquery/v1.33.0) (2022-06-08)
+
+
+### Features
+
+* **bigquery/storage/managedwriter/adapt:** support proto3 presence ([#6021](https://github.com/googleapis/google-cloud-go/issues/6021)) ([2984600](https://github.com/googleapis/google-cloud-go/commit/29846003d4bebb1a07ac11cac462ae65cb0bc59c))
+
+
+### Bug Fixes
+
+* **bigquery/dataexchange:** Include common protos in google-cloud-bigquery-data_exchange-v1beta1 ([6ef576e](https://github.com/googleapis/google-cloud-go/commit/6ef576e2d821d079e7b940cd5d49fe3ca64a7ba2))
+
 ## [1.32.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.31.0...bigquery/v1.32.0) (2022-05-06)
 
 
